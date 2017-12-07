@@ -11,6 +11,7 @@ RUN main.py
 
 * Have required libraries installed. 
 * Run main.py with python3 and required libraries.
+* Have tensorflow, keras installed to run the program. 
 
 
 ### Who do I talk to? ###
