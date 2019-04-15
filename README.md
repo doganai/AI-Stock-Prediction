@@ -4,7 +4,7 @@ RUN main.py
 
 ### What is this repository for? ###
 
-* We are trying to predict FOREX accuratly. 
+* We are trying to predict FOREX accurately. 
 * 1.0
 
 ### How do I get set up? ###
