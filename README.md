@@ -16,4 +16,4 @@ RUN main.py
 
 ### Who do I talk to? ###
 
-* john@foundationai.org
+* john@dogan.ai
